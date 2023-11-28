@@ -5,7 +5,7 @@ def print_hi(name):
 
 
 if __name__ == '__main__':
-    print_hi('Ruslan Fateew')
+    print_hi('Ruslan Fateev')
     print_hi('User')
 
 
